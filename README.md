@@ -5,3 +5,5 @@
 - logging documentation
 - bcrypt package
 - Logging to Files, Setting Levels, and Formatting
+
+**Read or watch: Concepts**
